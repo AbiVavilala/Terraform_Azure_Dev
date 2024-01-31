@@ -1,2 +1,2 @@
 # Ignore .terraform folder
-.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.89.0/windows_amd64/terraform-provider-azurerm_v3.89.0_x5.exe 
+terraform-provider-azurerm_v3.89.0_x5.exe

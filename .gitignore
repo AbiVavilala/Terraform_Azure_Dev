@@ -1,2 +1,3 @@
-# Ignore .terraform folder
-terraform-provider-azurerm_v3.89.0_x5.exe
+#This command works well: git filter-branch -f --index-filter 'git rm --cached -r --ignore-unmatch .terraform/'
+
+
